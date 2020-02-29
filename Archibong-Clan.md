@@ -5,7 +5,7 @@ Name: Kingsley Victor <br/>
 Track: Back-End (Node & ExpressJs)
 ___
 Name: Bethel-Gold <br/>
-Track: Track: Front End Mobile: React Native-iOS
+Track: Front End Mobile: React Native-iOS
 ___
 Name <br/>
 Track
